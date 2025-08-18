@@ -5,3 +5,4 @@ set up tailwind + vite enviornment
 -------------> Developing the UI for Sidebar
 -->  Completed Sidebar
 -->  working on Chat Container
+--> finished working on chat container, added input field, upload file option
