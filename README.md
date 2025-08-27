@@ -20,3 +20,9 @@ set up tailwind + vite enviornment
 <!-- Start working on Backend Setup -->
 
 <!-- setup nodejs enviornment + install the necessary packages bcryptjs, cloudinary, cors, dotenv, express, jsonwebtoken mongoose socket.io   -->
+
+<!-- setup mongoose db connection -->
+<!-- used brypt for password hashing -->
+<!-- wrote controller functions for login, signup -->
+<!-- wrote auth middleware using jwt tokens  -->
+
