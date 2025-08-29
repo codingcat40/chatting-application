@@ -26,3 +26,5 @@ set up tailwind + vite enviornment
 <!-- wrote controller functions for login, signup -->
 <!-- wrote auth middleware using jwt tokens  -->
 
+
+<!-- Finished working on user controller -->
